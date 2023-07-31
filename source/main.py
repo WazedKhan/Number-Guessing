@@ -4,7 +4,6 @@ accurate_number = chosen_number()
 number_guess = 3
 starting_hints = "You'r number is between 0 - 6, You have maximum 3 guesses"
 
-print(accurate_number)
 print(starting_hints)
 while number_guess > 0:
     user_input = int(input("Enter You'r guess: "))
