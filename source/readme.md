@@ -5,3 +5,5 @@
 - we will show the user how many attempt are left
 - we deduct 10 point for each attempt
 - if answer correctly he is winner
+
+Note: install requirements.txt: `pip install -r requirements.txt`
